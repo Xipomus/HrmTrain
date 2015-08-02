@@ -1312,7 +1312,7 @@ translate english your_ass_0850c877:
 translate english your_ass_7cebdade:
 
     # her "{size=-5}Я шлюха... ах...{/size}"
-    her "{size=-5}I am a whore... ah...{\size}"
+    her "{size=-5}I am a whore... ah...{/size}"
 
 # game/01_personal_requests/29_pr_sex.rpy:658
 translate english your_ass_1c85db7a:
